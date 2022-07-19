@@ -8,3 +8,6 @@ Functionality to consider:
 
 Free champion rotation (done).
 Search for a player and display: name, icon, level, rank, most played champion(s), recent games, challenges (ordered by nearest to completion).
+Lore??? Random champion facts?
+Champion info like hp and mana and abilites
+Champion play stats like pick rate and win rate
